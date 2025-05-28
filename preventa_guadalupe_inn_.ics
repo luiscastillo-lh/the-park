@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART:20250530T010000Z
+DTEND:20250530T020000Z
+SUMMARY:Preventa en Guadalupe Inn
+DESCRIPTION:Descubre una oportunidad única para invertir en esta zona exclusiva de CDMX.
+LOCATION:Online
+END:VEVENT
+END:VCALENDAR
